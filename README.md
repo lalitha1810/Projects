@@ -2,14 +2,13 @@
 My Data Project on Cricket
 Big Data Analytics- The New Player in ICC World Cup Cricket 2015
 
-27 Mar 2015
+
 Big Data in World Cup Cricket 2015 – Criclytics
 
 With the ICC World Cup Cricket 2015 round the corner; battle is on for the ICC World Cup 2015.The big final is between Australia and New Zealand.
 
 Big Data Analytics in Sports
 
-Image Credit : worldcupnext.com
 
 India and South Africa, despite their best efforts were knocked off the running, in the semis. South Africa have been branded as ‘chokers’ - as they tend to miss out on the most important matches, even though they are a top team on ICC Cricket Rankings.
 
@@ -31,7 +30,6 @@ It is not difficult to see how much big data analysis is used in post-match revi
 
 Cricket Analytics
 
-Image Credit:indianexpress.com
 
 Big Data and  Hadoop technology have a perspective in various industries but they are now on the flap of targeting sports. Big Data in Sports can make a significant difference in preventing injuries, scoring touchdowns and signing contracts from coaches’ to players.
 
@@ -53,8 +51,6 @@ These are just the statistical data we are talking about what about the video da
 
 Amitava Ghosh, ex-CTO at TaxiForSure says “While raw talent can never be replaced, data science and statistical analysis is going to help in putting together a sharper strategy for the game, just like it helps in business."
 
-Click here to know more about our IBM Certified Hadoop Developer course
-
 How cricket data is used for analytics in World Cup Cricket 2015?
 
 The main goal of ICC is to provide real time and interesting story telling statistics to the viewers through Big Data Analytics. ICC is using 40 years of historical world cup data to give out the best cricket predictions and enhance the experience of the viewers at World Cup Cricket 2015.
@@ -69,8 +65,6 @@ ESPNCricInfo has developed a tool called “Insights” with the dawn of World C
 
 Big Data in Sports
 
-Image Credit :ESPNCricInfo.com
-
 With Insights tool, now Big Data Analytics can tell you the odds of the popular batsmen Virat Kohli playing in a particular zone in opposition to a left hand bowler. Isn’t that amazing?
 
 The Big data functions plot in approximately 25 different variables for every ball bowled in a match during the World Cup Cricket 2015 which are passed through an extensive analytics process complemented by historical data with the help of local cricketing intelligence of the ESPNCricInfo team.
@@ -83,12 +77,10 @@ Just 7 hours before the 1 st quarter final of ICC World Cup Cricket 2015 began, 
 
 Best Cricket Prediction
 
-Image Credit :07.ibm.com/
-
 This best cricket prediction owes IBM - for its analytic innovation ScoreWithData that consists of Twitteratti Speaks, IBM Social Sentiment Index and Wisden Impact Index which provides insights to cricket fans. IBM uses Social Media in particular Twitter for spreading the word about their creative and interesting predictions.
 
 Twitteratti Speaks uses Data Analytics Engine and Social Media Data to identify and keep a track of all the highlight moments of every cricket match. The highlight of a match are identified by the prevailing reactions of the cricket fans by scanning and searching through billions of Twitter feeds and finally results are projected visually.
 IBM Social Sentiment Index uses real-time data streams for generating the best cricket predictions on the teams as to who has a greater probability of winning the match, who are the most talked of players.
 Widen Impact Index provides proportional and correlated predictions by leveraging the historical and current cricket data as the cricket match progresses.
 
-Big Data in Sports has a vital role to play in decision making in future by recording the experiences and predicting behaviors based on cricket data. If you have any of the best cricket predictions done using Big Data Analytics for ICC World Cup Cricket 2015 then do share with us in comments section below.
+Big Data in Sports has a vital role to play in decision making in future by recording the experiences and predicting behaviors based on cricket data. 
